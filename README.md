@@ -1,4 +1,4 @@
-# Financial Data Insights Dashboard
+# Financial Loan Data Insights Dashboard
 ## Project Overview
 This repository contains a Power BI dashboard designed to provide a comprehensive analysis of a financial loan dataset. The project's primary goal was to transform raw data into actionable business intelligence, helping financial institutions and analysts make informed decisions regarding credit risk and loan portfolio management.
 
